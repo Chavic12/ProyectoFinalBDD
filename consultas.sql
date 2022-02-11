@@ -1,4 +1,4 @@
--- Filtrar el el lenguaje original el overview y el runtime de la pelicula Avatar
+-- Filtrar el lenguaje original el overview y el runtime de la pelicula Avatar
 SELECT title, original_language, overview, runtime
 FROM movie
 WHERE title = "Avatar";
