@@ -20,7 +20,7 @@ Usario de github: xavierchavez916
 ## Descripción de los diferentes archivos cargados
 
 #### Descripción de los archivos cargados al repositorio:
-** ProyectoFinalBDD.pptx:
+#### ProyectoFinalBDD.pptx:
 En este archivo se encuentra las diapositivas con nuestro modelo entidad-relación y con todo el proceso de normalización aplicando a la tabla universal propuesta para sacar una Base de Datos persistente. Y también de como fue la creación de tablas y la inserción de datos.
 
 #### ProyectoFinal.sql:
