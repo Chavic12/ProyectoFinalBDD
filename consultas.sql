@@ -3,7 +3,7 @@ SELECT title, original_language, overview, runtime
 FROM movie
 WHERE title = "Avatar";
 
--- Filtrar las peliculas en donde la popularidad sea mayor o igual 650.55
+-- Filtrar las peliculas en donde la popularidad sea mayor 650.55
 SELECT title, popularity
 FROM movie
 WHERE popularity > 650.55;
