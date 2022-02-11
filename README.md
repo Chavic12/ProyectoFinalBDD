@@ -22,6 +22,9 @@ Usario de github: xavierchavez916
 ** ProyectoFinalBDD.pptx:
 En este archivo se encuentra las diapositivas con nuestro modelo entidad-relación y con todo el proceso de normalización aplicando a la tabla universal propuesta para sacar una Base de Datos persistente. Y también de como fue la creación de tablas y la inserción de datos.
 
-** ProyectoIntegrador.sql:
+** ProyectoFinal.sql:
 En este archivo está el código completo para realizar la creación de las tablas luego de haber aplicado el proceso de normaliación, también está la inserción, limpieza y correción de datos.
 En el script practicamente está listo para ejecutar partiendo en que ya se cargo la tabla universal que contiene los datos del CSV, con este script ya se crearia todas las tablas de nuestro modelo al cual se llego con la normalización.
+
+** Consultas.sql:
+En este archivo se hace la explotación de la data. 
